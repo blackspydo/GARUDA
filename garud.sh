@@ -28,7 +28,7 @@ ${Red}
 /_.__/\__/\__/\__/\__/_/    \__/_//_/\_,_/_//_/  \_, /\___/\_,_/_/    \_, /_/_/ /_/_//_/ /_/\__/_//_/\_,_/  
                                                 /___/                /___/                                                                                    "
 
-# creat a dir to your arsenal
+# creat a dir to your GARUDA
 mkdir GARUDA
 cd GARUDA
 echo "Check the requirements"
