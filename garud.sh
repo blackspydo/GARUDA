@@ -39,8 +39,7 @@ if ! command -v go &> /dev/null
 then
     echo "go is not installed"
     echo "installing go now "
-    # echo "Check this "
-    # echo "https://github.com/Micro0x00/Arsenal/blob/main/README.md#go-lang-installation"
+    # echo "Check this 
     sudo apt-get remove -y golang-go &>/dev/nulls
     sudo rm -rf /usr/local/go &>/dev/nulls
     wget https://go.dev/dl/go1.19.1.linux-amd64.tar.gz &>/dev/nulls
